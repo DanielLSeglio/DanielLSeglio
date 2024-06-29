@@ -31,7 +31,7 @@ Um desenvolvedor iniciante em busca do meu primeiro emprego na área de tecnolog
 
 ### 🌐 Contato:
 
-- **[LinkedIn](https://www.linkedin.com/in/daniellseglio/)**: Meu perfil para conexões profissionais.
+- **Linkedin**: [DanielLSeglio](https://www.linkedin.com/in/daniellseglio/)
 - **Email**: [Daniellseglio@gmail.com](mailto:daniellseglio@gmail.com)
 
 ---
